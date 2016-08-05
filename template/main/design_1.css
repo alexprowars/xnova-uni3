@@ -1,0 +1,40 @@
+@media only screen and (min-width: 1600px) and (min-device-width: 1920px)
+{
+	td.c, #menu_links li > a, .buildings, .body, .html, td, th, table table td, input[type=submit], input[type=button], input[type=reset], .button, .shoutbox .date1, .activity .date1,
+	th, td.a, td.b, td.c, td.f, input, select, td.g, td.h, td.i, td.j, td.k, td.l, td.m, td.n, td.o, td.q, td.r, td.v, .style td, textarea, p td, table.s th img
+	{
+		font-size: 13px;
+	}
+
+	#box, #siteFooter .content {
+		width: 1125px;
+	}
+
+	.planetList .list .planet {
+		font-size: 12px;
+	}
+
+	table td.menu, .planetList {
+		width: 150px;
+	}
+
+	#menu_links {
+		width: 135px;
+	}
+
+	.block > .title {
+		font-size: 14px;
+	}
+
+	#menu_links li > a {
+		height: 25px;
+	}
+
+	.shoutbox {
+		font-size: 14px;
+	}
+
+	.buildings {
+		height: 150px;
+	}
+}
